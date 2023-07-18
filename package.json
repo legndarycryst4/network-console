@@ -1,0 +1,17 @@
+{
+  "name": "minecraft-server-console-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "dependencies": {
+    "php": "1.0.1"
+  },
+  "keywords": [
+    "minecraft server console web",
+    "minecraft",
+    "game",
+    "web",
+    "server",
+    "console"
+  ]
+}
